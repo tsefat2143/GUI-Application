@@ -12,5 +12,5 @@ class GUI():
 
 root = Tk()
 myGUI = GUI(root)
-root.title('Insurance Application')
+root.title('Application')
 root.mainloop()
